@@ -15,9 +15,8 @@ For me, the pursuit of knowledge in the field of big data is not just a career c
 - PostgreSQL
 - Tableau
 - Git
+- MS Excel
 - A/B test
-- Tableau
-
 
 
 ![](https://komarev.com/ghpvc/?username=iqzmn) [![codewars](https://www.codewars.com/users/iqzmn/badges/micro)](https://www.codewars.com/users/iqzmn)
