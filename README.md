@@ -5,7 +5,7 @@ I am passionate about uncovering trends and insights, as well as visualizing res
 For me, the pursuit of knowledge in the field of big data is not just a career choice, but a personal passion. I am committed to staying updated on the latest advancements in data analysis and machine learning, and I am always eager to expand my skill set.
 
 
-## ⚡Skills and Tools:
+## ⚡Skills & Tools:
 - Python
 - Pandas
 - Matplotlib
