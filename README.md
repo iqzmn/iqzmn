@@ -11,6 +11,7 @@ For me, the pursuit of knowledge in the field of big data is not just a career c
 - Matplotlib
 - Plotly
 - Numpy
+- Sklearn
 - Jupyter Notebook
 - PostgreSQL
 - Tableau
