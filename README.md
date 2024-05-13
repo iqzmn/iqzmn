@@ -20,8 +20,7 @@ For me, the pursuit of knowledge in the field of big data is not just a career c
 - A/B test
 
 
-![](https://komarev.com/ghpvc/?username=iqzmn) [![codewars](https://www.codewars.com/users/iqzmn/badges/micro)](https://www.codewars.com/users/iqzmn)
-
+![](https://komarev.com/ghpvc/?username=iqzmn)
 <!--
 **iqzmn/iqzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
