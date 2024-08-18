@@ -10,11 +10,9 @@ I'm thrilled to be working in the field of data analytics and machine learning. 
 - Plotly
 - Numpy
 - Sklearn
-- Jupyter Notebook
 - PostgreSQL
 - Tableau
 - Git
-- MS Excel
 - A/B test
 
 <!--
