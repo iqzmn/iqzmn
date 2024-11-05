@@ -14,6 +14,7 @@ I'm thrilled to be working in the field of data analytics and machine learning. 
 - Tableau
 - Git
 - A/B test
+- Docker
 
 <!--
 **iqzmn/iqzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
