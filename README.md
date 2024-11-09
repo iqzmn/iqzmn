@@ -6,7 +6,7 @@ I'm thrilled to be working in the field of data analytics and machine learning. 
 ## ⚡Skills & Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23B92B27.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -15,20 +15,8 @@ I'm thrilled to be working in the field of data analytics and machine learning. 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-- Python
-- Pandas
-- Matplotlib
-- Plotly
-- Numpy
-- Sklearn
-- PostgreSQL
-- Tableau
-- Git
-- A/B test
-- Docker
-- Apache Airflow
-- Hadoop
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![A/B_testing](https://img.shields.io/badge/A/B%20testing-000000?style=for-the-badge&logoColor=white)
 
 <!--
 **iqzmn/iqzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
